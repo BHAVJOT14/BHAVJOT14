@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhavjot Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BHAVJOT14/count.svg" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavjot14&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="bhavjot14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavjot14" alt="bhavjot14" /></a> </p>
