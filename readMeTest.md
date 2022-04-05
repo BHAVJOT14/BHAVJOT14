@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavjot Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
-<img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" style="width = 100%;" alt="Hello world">
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" alt="Hello world">
+</div>
 
 
 <p align="center"> 
