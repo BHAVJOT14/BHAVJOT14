@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavjot Singh</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" alt="Hello world">
-</div>
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/BHAVJOT14/count.svg" />
@@ -29,3 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavjot14&show_icons=true&locale=en" alt="bhavjot14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavjot14&" alt="bhavjot14" /></p>
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" alt="Hello world">
+</div>
+
+
