@@ -6,6 +6,15 @@
   <img src="https://profile-counter.glitch.me/BHAVJOT14/count.svg" />
 </p>
 
+<!-- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBHAVJOT14%2F&count_bg=%23FF0000&title_bg=%233F3F3F&icon=hackaday.svg&icon_color=%23F96C6C&title=&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBHAVJOT14%2F&count_bg=%23FF0000&title_bg=%233F3F3F&icon=hackaday.svg&icon_color=%23F96C6C&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavjot14&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="bhavjot14" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavjot14" alt="bhavjot14" /></a> </p>
