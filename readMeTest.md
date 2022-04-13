@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavjot Singh</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 <p align="center"> 
   Visitor count<br>
@@ -16,8 +16,8 @@
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavjot14&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="bhavjot14" /> </p> -->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavjot14" alt="bhavjot14" /></a> </p>
+<!-- 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavjot14" alt="bhavjot14" /></a> </p> -->
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
