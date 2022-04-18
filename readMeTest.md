@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhavjot Singh</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BHAVJOT14/count.svg" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" alt="Hello world">
+</div>
+
 
 <!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBHAVJOT14%2F&count_bg=%23FF0000&title_bg=%233F3F3F&icon=hackaday.svg&icon_color=%23F96C6C&title=&edge_flat=false)](https://hits.seeyoufarm.com) -->
@@ -34,9 +34,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavjot14&" alt="bhavjot14" /></p>
 
+<br>
+<br>
+<br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" alt="Hello world">
-</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BHAVJOT14/count.svg" />
+</p>
 
 
