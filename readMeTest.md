@@ -39,9 +39,9 @@
 const Bhavjot = {
     pronouns: "He" | "Him" | "Sardar Ji" | "Pajji",
 
-    code: ["Javascript", "Python", "C", "PHP"],
+    languages: ["Javascript", "Python", "C", "PHP"],
 
-    askMeAbout: ["web dev", "tech"],
+    askMeAbout: ["Web Development", "Technologies"],
 
     technologies: {
         backEnd: {
