@@ -21,7 +21,11 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a **Final Year BCA Student from ITM University, Raipur.**
+<br>
+
+- 🤝 I’m an **Associative Software developer at Viva VOLT Pvt Ltd, New Delhi**
+
+- 🔭 I’m currently pursuing a **Masters of Computer Application Degree**.
 
 - 🌱 I’m currently focusing on **DSA & Web 3.0**
 
@@ -58,8 +62,7 @@ const Bhavjot = {
     },
 
     architecture: ["Progressive web applications", "Single Page Applications"],
-
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "A SQL query goes into a bar, walks up to two tables and asks, “Can I join you?”
 };
 ```
 <br>
