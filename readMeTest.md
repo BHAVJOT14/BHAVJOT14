@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bhavjot Singh</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&color=ffffff&center=true&vCenter=true&width=600&height=100&lines=Hello+all+👋%2C+I+am+Bhavjot+Singh">
+</a>
+</h1>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/68502679/161606926-85f0327e-41e1-4fd6-a195-f5b5d69ed2f3.gif" alt="Hello world">
@@ -23,7 +27,7 @@
 
 <br>
 
-- 🤝 I’m an **Associative Software developer at Viva VOLT Pvt Ltd, New Delhi**
+- 🤝 I’m currently working as an **Associative Software developer** in New Delhi, India
 
 - 🔭 I’m currently pursuing a **Masters of Computer Application Degree**.
 
