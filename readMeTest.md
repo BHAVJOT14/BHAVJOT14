@@ -49,7 +49,7 @@ const Bhavjot = {
 
     languages: ["Javascript", "Python", "C", "PHP"],
 
-    askMeAbout: ["Web Development", "Technologies"],
+    askMeAbout: ["Web Development Technologies"],
 
     technologies: {
         backEnd: {
