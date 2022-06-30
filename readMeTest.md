@@ -45,24 +45,20 @@
 
 ```javascript
 const Bhavjot = {
-    pronouns: "He" | "Him" | "Sardar Ji" | "Pajji",
+    pronouns: "He" || "Him" ,
 
     languages: ["Javascript", "Python", "C", "PHP"],
 
     askMeAbout: ["Web Development Technologies"],
 
     technologies: {
-        backEnd: {
-            techStack: ["Linux", "Apache", "MySQL", "PHP"],
-        },
+        currentTechStack: ["LAMP"],
+        
+        backEnd: [Php],
 
-        frontEnd: {
-            techStack: ["Angular", "React", "Bootstrap", "HTML & CSS"]
-        }        
+        frontEnd: ["Bootstrap", "HTML & CSS", "Javascript", "Jquery"]
 
-        devOps: ["AWS", "Containerization"],
-
-        databases: ["MySql"],
+        database: ["MySql"],
     },
 
     architecture: ["Progressive web applications", "Single Page Applications"],
