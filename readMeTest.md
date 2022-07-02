@@ -27,8 +27,6 @@
     </a> 
 </p>
 
-<br>
-
 - 🤝 I’m currently working as an **Associative Software developer** in New Delhi, India
 
 - 🔭 I’m currently pursuing a **Masters of Computer Application Degree**.
