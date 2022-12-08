@@ -46,15 +46,15 @@
 ```javascript
 const Bhavjot = {
     pronouns: "He" || "Him" ,
-
-    languages: ["Javascript", "Python", "C", "PHP"],
-
+    
     askMeAbout: ["Web Development Technologies"],
 
     technologies: {
         currentTechStack: ["LAMP"],
 
-        backEnd: [Php],
+        backEnd: ["PHP"],
+        
+        backEnd_Frameworks: ["Laravel"],
 
         frontEnd: ["Bootstrap", "HTML & CSS", "Javascript", "Jquery"]
 
